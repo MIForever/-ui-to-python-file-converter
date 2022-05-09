@@ -7,9 +7,9 @@
   Converter .ui to .py
 </h1>
 
-## 🚀 Requirements
+## 📄Requirements
 
- **install pyinstaller using command propmt**
+ **All you have to do is install pyinstaller using command propmt**
 
     pip install pyinstaller
     
