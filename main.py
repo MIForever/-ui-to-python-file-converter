@@ -54,7 +54,7 @@ class Convertor:
 
         self.program_name_lbl = tk.Label(self.root)
         self.program_name_lbl.place(relx=0.0, rely=0.0, relheight=0.11, relwidth=1)
-        self.program_name_lbl.configure(bg="#727272",fg="#000000",text=".ui to .py converter")
+        self.program_name_lbl.configure(bg="#727272",fg="#000000",text=".ui to .py converter",font="-family {Sergeo UI} -size 20 -weight bold")
     
     def run(self):
         self.root.mainloop()
