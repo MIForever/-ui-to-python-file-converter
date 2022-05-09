@@ -9,14 +9,12 @@
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+1.  **Requirements.**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+    install pyinstaller using command propmt
 
     ```
-    # install pyinstaller uninsg
     pip install pyinstaller
-    # command
     ```
 
 2.  **Start developing.**
